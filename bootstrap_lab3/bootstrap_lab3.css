@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo h6{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.loginpage {
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.formsec {
+    background-color: rgb(213, 218, 228);
+    width: 300px;
+    height: 230px;
+}
+.btn {
+    width: 265px;
+    height: 34px;
+  
+  
+}
+.intp
+{
+    width: 270px;
+    border: none;
+    outline-color:blue ;
+    height: 30px;
+}
+.pass{
+    margin-right: 68px;
+}
+.user{
+    margin-right: 78px;
+}
+.row{
+    padding: auto;
+}
